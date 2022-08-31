@@ -1390,7 +1390,13 @@
     .button--mobile {
         left: 35.5%;
     }
-    
+    /*footer==============*/
+      /*footer===*/
+      .footer-logo {
+        position: absolute;
+        bottom: 16%;
+        right: 42%;
+    }
 }
 
 @media (max-width: 375px){
